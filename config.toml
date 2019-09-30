@@ -1,9 +1,9 @@
 baseurl                 = "https://hausbau.team-siebel.de/"
 DefaultContentLanguage  = "de"
-title                   = "Hausbau - Familie Siebel"
+title                   = "Hausbau der Familie Siebel mit Heinrich Hildmann und Traumhaus A.G"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 3
+paginate                = 10
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -28,10 +28,11 @@ disableLanguages        = [""]
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   socialShare           = ["twitter", "facebook", "reddit", "email"]
   summary_length = 300
+  content_full = true
 
   [params.meta]
     # Sets the meta tag description
-    description         = "Der Hausbau von Familie Siebel mit Traumhaus AG und Heinrich Hildmann"
+    description         = "Unsere Erfahrungen beim Hausbau mit Heinrich Hildmann und Traumhaus A.G "
     # Sets the meta tag author
     author              = "A.Siebel, M.Siebel"
     # If you would like to add more comprehensive favicon support passed root
@@ -154,7 +155,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "asbl/hausbau"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
