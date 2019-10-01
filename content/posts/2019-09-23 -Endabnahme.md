@@ -1,5 +1,5 @@
 ---
-title: "Abnahme - Teil 3"
+title: "Abnahme/Endabnahme... - Teil 3"
 date: 2019-09-23T11:02:19+02:00
 draft: false
 type: post
