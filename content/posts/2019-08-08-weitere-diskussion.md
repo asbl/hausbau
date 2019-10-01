@@ -16,7 +16,7 @@ tags:
 
 Die Diskussion um den Verzug geht weiter.
 
-Nach Vertrag sollte unser Haus am 28.Mai (+1 Montag Mahnungsfrist) fertig gebaut sein. Dazu kommt eine kurze Verzögerung wegen niedrigen Temperaturen, welche angezeigt wurde und weiterhin um Bauarbeiten an der Neutorstraße (Der Parallelstraße unseres Hauses). Seit über einen halben Jahr hat uns Heinrich Hildmann keine Auskunft darüber erteilt, inwiefern die Sperrung der Neutorstraße die Arbeiten an unserem Haus beeinflusst haben, obwohl nach der Sperrung noch Arbeiten und Lieferungen zu unserem Haus durchgeführt wurden.
+Nach Vertrag sollte unser Haus am 28.Mai (+1 Monat Mahnungsfrist) fertig gebaut sein. Dazu kommt eine kurze Verzögerung wegen niedrigen Temperaturen, welche angezeigt wurde und weiterhin um Bauarbeiten an der Neutorstraße (Der Parallelstraße unseres Hauses). Seit über einen halben Jahr hat uns Heinrich Hildmann keine Auskunft darüber erteilt, inwiefern die Sperrung der Neutorstraße die Arbeiten an unserem Haus beeinflusst haben, obwohl nach der Sperrung noch Arbeiten und Lieferungen zu unserem Haus durchgeführt wurden.
 
 Stattdessen beruft man sich darauf, nicht in Verzug zu sein und müsse nur noch Unterlagen der Straßenverkehrsbehörde und des Wetterdienstes zusammentragen um uns dann einen neuen Fertigstellungstermin zu nennen.
 
