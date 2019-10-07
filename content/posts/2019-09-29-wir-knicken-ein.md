@@ -19,6 +19,6 @@ Auch wenn wir uns prinzipiell gut beraten gefühlt haben und auch Chancen gesehe
 
 Das war letzten Donnerstag. Der Termin für die Übergabe ist morgen. Eine Schlussrechnung haben wir noch nicht erhalten und sind schon gespannt, ob und welche Überraschungen noch auf uns zukommen. Die Leser werden sich vielleicht an die Abnahme erinnern, die kurz vorher keine Abnahme sein sollte und dann doch eine war. 
 
-Damals hat Heinrich Hildmann es geschafft es meine Frau einen Schrieb unterschreiben zu lassen, dass man so lesen könnte, das Werk sei "vorfristig" hergestellt - vollkommen entgegen der vorherigen Kommunikation und natürlich auch vollkommen entgegen unserer eigentlichen Position. 
+Damals hat die Bauleiterin es geschafft es meine Frau einen Schrieb unterschreiben zu lassen, dass man so lesen könnte, das Werk sei "vorfristig" hergestellt - vollkommen entgegen der vorherigen Kommunikation und natürlich auch vollkommen entgegen unserer eigentlichen Position. 
 
 Daher sind wir besonders gespannt, was morgen auf uns zukommt und bleiben vorsichtig.
