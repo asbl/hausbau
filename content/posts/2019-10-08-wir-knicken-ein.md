@@ -1,6 +1,6 @@
 ---
 title: "Wir knicken ein"
-date: 2019-10-10T15:17:21+02:00
+date: 2019-10-09T15:17:21+02:00
 type: post
 draft: false
 categories:
